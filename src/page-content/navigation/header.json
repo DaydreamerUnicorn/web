@@ -9,11 +9,6 @@
           "to": "/cloud"
         },
         {
-          "title": "Pricing",
-          "description": "Ory Cloud Pricing",
-          "to": "/pricing"
-        },
-        {
           "title": "Release Notes",
           "description": "Ory Cloud Release Notes",
           "to": "/release-notes"
@@ -107,6 +102,10 @@
       "title": "Jobs",
       "to": "/jobs",
       "dotted": true
+    },
+    {
+      "title": "Pricing",
+      "to": "/pricing"
     }
   ],
   "mobileMenu": {
@@ -117,10 +116,6 @@
           {
             "title": "Sign Up",
             "to": "https://console.ory.sh/registration"
-          },
-          {
-            "title": "Pricing",
-            "to": "/pricing"
           }
         ]
       },
@@ -194,6 +189,15 @@
           {
             "title": "Identity Report",
             "to": "/identity-in-modern-applications-oreilly/"
+          }
+        ]
+      },
+      {
+        "category": "Pricing",
+        "mobileMenuItems": [
+          {
+            "title": "Pricing",
+            "to": "/pricing/"
           }
         ]
       }
